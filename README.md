@@ -4,15 +4,15 @@
   
 - 🌱 I’m currently learning and exploring backend technologies to advance in Full stack web development.
 - 💞️ My tech skills include:
-- 
--> 💥--------FRONTEND WEB DEV--------💥
-- > HTML, CSS, JavaScript
   
--> 💥--------BACKEND WEB DEV--------💥
+-> 💥--------frontend technologies--------💥
+  > HTML, CSS, JavaScript
+  
+-> 💥--------backend technolgies--------💥
   > Node JS, Express, Mongo DB, Mongoose
 
--> 💥--------FRAMEWORKS--------💥
-React JS, Tailwind CSS, Bootstrap
+-> 💥--------frameworks--------💥
+  > React JS, Tailwind CSS, Bootstrap
 
 <!---
 stevencodeblooded/stevencodeblooded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
