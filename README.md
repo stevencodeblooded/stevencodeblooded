@@ -6,13 +6,11 @@
 - 💞️ My tech skills include:
   
 -> 💥--------frontend technologies--------💥
-  > HTML, CSS, JavaScript
-  
+HTML, CSS, JavaScript
 -> 💥--------backend technolgies--------💥
-  > Node JS, Express, Mongo DB, Mongoose
-
+Node JS, Express, Mongo DB, Mongoose
 -> 💥--------frameworks--------💥
-  > React JS, Tailwind CSS, Bootstrap
+React JS, Tailwind CSS, Bootstrap
 
 <!---
 stevencodeblooded/stevencodeblooded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
