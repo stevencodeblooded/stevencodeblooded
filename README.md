@@ -7,7 +7,7 @@
 - HTML, CSS, JavaScript
 - Node JS, Express, Mongo DB, Mongoose
 - React JS, Tailwind CSS, Bootstrap
-- Exploring TypeScript at the moment
+- Exploring TypeScript and Next JS at the moment
 
 <!---
 stevencodeblooded/stevencodeblooded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
