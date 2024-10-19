@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stevencodeblooded a frontend web developer.
+- 👋 Hi, I’m @stevencodeblooded a software developer -> Web Applications and Browser Extensions.
   
 - 👀 I have passion for creating user friendly websites and web applications.
   
